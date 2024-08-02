@@ -70,6 +70,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Shamsa-Ali/Shamsa-Ali/output/snake.svg" alt="Snake animation" />
-
-###
